@@ -3,7 +3,7 @@ import cheerio from "cheerio";
 import cron from "node-cron";
 
 // 👇 CHANGE THIS to the X account you want
-const TWITTER_USERNAME = "elonmusk";
+const TWITTER_USERNAME = "PierrePoilievre";
 
 // 👇 YOU WILL REPLACE THIS IN A LATER STEP
 const LOVABLE_WEBHOOK = "PASTE_YOUR_LOVABLE_WEBHOOK_HERE";
